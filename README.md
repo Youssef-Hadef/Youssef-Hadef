@@ -17,8 +17,8 @@
   <a href="https://www.instagram.com/your-username">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-    <a href="https://www.instagram.com/your-username">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook"/>
+    <a href="https://https://web.facebook.com/profile.php?id=61566915492134">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 <!-- Glad to see you here! -->
