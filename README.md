@@ -7,7 +7,7 @@
   <p>
     A passionate Programmer and Data Science enthusiast from Algeria, currently pursuing a Master's degree in AI & Data Science[cite: 4]. I specialize in turning data into insights and building intelligent applications.
   </p>
-  ### Social media buttons and links
+  <!-- Social media buttons and links -->
 <p align="left">
   <a href="https://www.linkedin.com/in/your-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-### Glad to see you here!
+<!-- Glad to see you here! -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=blue" alt="your-github-username" /> 
 </p>
@@ -32,10 +32,10 @@
 
 ### 🚀 About Me
 
-- [cite_start]🎓 I am currently a Master's student in Artificial Intelligence & Data Science at Kasdi Merbah University[cite: 4, 32, 34].
-- [cite_start]🔭 I hold a Bachelor's degree in Information Systems[cite: 4, 36].
-- [cite_start]🌱 I’m currently focused on Data Analysis, Visualization, Machine Learning, and Deep Learning projects[cite: 8, 13].
-- [cite_start]💼 Check out my portfolio to see my work: **[Youssef's Portfolio](https://youssefhadef.github.io/Youssef_Hadef/)** [cite: 12, 16, 21]
+- 🎓 I am currently a Master's student in Artificial Intelligence & Data Science at Kasdi Merbah University.
+- 🔭 I hold a Bachelor's degree in Information Systems.
+- 🌱 I’m currently focused on Data Analysis, Visualization, Machine Learning, and Deep Learning projects.
+- 💼 Check out my portfolio to see my work: Youssef's Portfolio](https://youssefhadef.github.io/Youssef_Hadef/)
 
 ---
 
@@ -49,29 +49,29 @@
 [cite_start]![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) [cite: 24]
 
 #### Skill Proficiency
-- [cite_start]**Data Analysis & Visualization** [cite: 39]
+- **Data Analysis & Visualization** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
     [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 41]
   </div>
-- [cite_start]**Python** [cite: 45]
+- **Python** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
     [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 49]
   </div>
-- [cite_start]**Machine Learning** [cite: 39]
+- **Machine Learning** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> [cite: 50]
+    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
   </div>
-- [cite_start]**Power BI & Excel** [cite: 46, 47]
+- **Power BI & Excel** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> [cite: 50, 51]
+    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
   </div>
-- [cite_start]**Image Processing** [cite: 40]
+- **Image Processing**
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #CDDC39; width: 65%; height: 20px; border-radius: 5px; text-align: center; color: black;">65%</div> [cite: 44]
+    [cite_start]<div style="background-color: #CDDC39; width: 65%; height: 20px; border-radius: 5px; text-align: center; color: black;">65%</div> 
   </div>
-- [cite_start]**Deep Learning & Project Management** [cite: 39, 40]
+- **Deep Learning & Project Management** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #FFEB3B; width: 50%; height: 20px; border-radius: 5px; text-align: center; color: black;">50%</div> [cite: 42, 43]
+    [cite_start]<div style="background-color: #FFEB3B; width: 50%; height: 20px; border-radius: 5px; text-align: center; color: black;">50%</div> 
   </div>
 
 ---
