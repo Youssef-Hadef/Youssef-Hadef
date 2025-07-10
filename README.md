@@ -7,11 +7,11 @@
     A passionate Programmer and Data Science enthusiast from Algeria, currently pursuing a Master's degree in AI & Data Science. I specialize in turning data into insights and building intelligent applications.
   </p>
   <!-- Social media buttons and links -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-username">
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssefhadef">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-username">
+  <a href="https://twitter.com/YoussefHadef_AI">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/your-username">
