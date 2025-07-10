@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    A passionate Programmer and Data Science enthusiast from Algeria, currently pursuing a Master's degree in AI & Data Science[cite: 4]. I specialize in turning data into insights and building intelligent applications.
+    A passionate Programmer and Data Science enthusiast from Algeria, currently pursuing a Master's degree in AI & Data Science. I specialize in turning data into insights and building intelligent applications.
   </p>
   <!-- Social media buttons and links -->
 <p align="left">
