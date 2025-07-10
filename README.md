@@ -42,9 +42,10 @@
 ### 🛠️ My Tech Stack & Skills
 
 #### Programming & Tools
+
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,powerbi,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,jupyter,powerbi,tensorflow,pytorch,scikitlearn,git,github,vscode&perline=5" />
   </a>
 </p>
 
