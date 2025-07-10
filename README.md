@@ -46,32 +46,32 @@
 ![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-[cite_start]![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) [cite: 24]
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 #### Skill Proficiency
 - **Data Analysis & Visualization** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 41]
+  <div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div>
   </div>
 - **Python** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 49]
+  <div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div>
   </div>
 - **Machine Learning** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
+   <div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
   </div>
 - **Power BI & Excel** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
+  <div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> 
   </div>
 - **Image Processing**
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #CDDC39; width: 65%; height: 20px; border-radius: 5px; text-align: center; color: black;">65%</div> 
+  <div style="background-color: #CDDC39; width: 65%; height: 20px; border-radius: 5px; text-align: center; color: black;">65%</div> 
   </div>
 - **Deep Learning & Project Management** 
   <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
-    [cite_start]<div style="background-color: #FFEB3B; width: 50%; height: 20px; border-radius: 5px; text-align: center; color: black;">50%</div> 
+  <div style="background-color: #FFEB3B; width: 50%; height: 20px; border-radius: 5px; text-align: center; color: black;">50%</div> 
   </div>
 
 ---
