@@ -1,58 +1,99 @@
-## Hi there 👋
-# 👋 أهلاً بك في ملفي الشخصي
-
-[cite_start]مرحباً، أنا يوسف الهادف [cite: 1][cite_start]، مبرمج [cite: 2] [cite_start]وطالب ماجستير في علوم البيانات والذكاء الاصطناعي[cite: 4].
+<div id="header" align="center">
+  <img src=""/>
+  <h1>
+    Hi there, I'm Youssef Hadef
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p>
+    A passionate Programmer and Data Science enthusiast from Algeria, currently pursuing a Master's degree in AI & Data Science[cite: 4]. I specialize in turning data into insights and building intelligent applications.
+  </p>
+  ### Social media buttons and links
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/your-username">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+    <a href="https://www.instagram.com/your-username">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+### Glad to see you here!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=blue" alt="your-github-username" /> 
+</p>
+</div>
 
 ---
 
-### 👨‍💻 نبذة عني
+### 🚀 About Me
 
-- [cite_start]🎓 طالب ماجستير حالي في تخصص الذكاء الاصطناعي وعلوم البيانات بجامعة قاصدي مرباح - ورقلة[cite: 4, 32, 34].
-- [cite_start]💡 حاصل على شهادة بكالوريوس في نظم المعلومات[cite: 36].
-- [cite_start]🚀 شغوف بتحليل البيانات، التعلم الآلي، وتصميم واجهات المستخدم[cite: 8, 13, 17].
+- [cite_start]🎓 I am currently a Master's student in Artificial Intelligence & Data Science at Kasdi Merbah University[cite: 4, 32, 34].
+- [cite_start]🔭 I hold a Bachelor's degree in Information Systems[cite: 4, 36].
+- [cite_start]🌱 I’m currently focused on Data Analysis, Visualization, Machine Learning, and Deep Learning projects[cite: 8, 13].
+- [cite_start]💼 Check out my portfolio to see my work: **[Youssef's Portfolio](https://youssefhadef.github.io/Youssef_Hadef/)** [cite: 12, 16, 21]
 
 ---
 
-### 🛠️ المهارات التقنية
+### 🛠️ My Tech Stack & Skills
 
-#### مجالات الخبرة
-- [cite_start]**تحليل وتصور البيانات (Data Analysis & Visualization)** [cite: 39]
-- [cite_start]**التعلم الآلي (Machine Learning)** [cite: 39]
-- [cite_start]**التعلم العميق (Deep Learning)** [cite: 39]
-- [cite_start]**معالجة الصور (Image Processing)** [cite: 40]
-- [cite_start]**إدارة المشاريع (Project Management)** [cite: 40]
+#### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[cite_start]![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) [cite: 24]
 
-#### الأدوات واللغات
+#### Skill Proficiency
+- [cite_start]**Data Analysis & Visualization** [cite: 39]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 41]
+  </div>
 - [cite_start]**Python** [cite: 45]
-- [cite_start]**Power BI** [cite: 46]
-- [cite_start]**Excel** [cite: 47]
-- [cite_start]**Dashboards** [cite: 48]
-- [cite_start]**Figma** [cite: 17]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #4CAF50; width: 80%; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div> [cite: 49]
+  </div>
+- [cite_start]**Machine Learning** [cite: 39]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> [cite: 50]
+  </div>
+- [cite_start]**Power BI & Excel** [cite: 46, 47]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #8BC34A; width: 70%; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div> [cite: 50, 51]
+  </div>
+- [cite_start]**Image Processing** [cite: 40]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #CDDC39; width: 65%; height: 20px; border-radius: 5px; text-align: center; color: black;">65%</div> [cite: 44]
+  </div>
+- [cite_start]**Deep Learning & Project Management** [cite: 39, 40]
+  <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%;">
+    [cite_start]<div style="background-color: #FFEB3B; width: 50%; height: 20px; border-radius: 5px; text-align: center; color: black;">50%</div> [cite: 42, 43]
+  </div>
 
 ---
 
-### 📂 المشاريع
+### 📊 My GitHub Stats
 
-للاطلاع على مجموعة من المشاريع التي عملت عليها في مجالات علوم البيانات، تعلم الآلة، وتصميم الواجهات، يمكنك زيارة معرض أعمالي:
-
-- [cite_start]🔗 **[معرض أعمالي الكامل](https://youssefhadef.github.io/Youssef_Hadef/)** [cite: 12, 16, 21]
-
----
-
-### 🌐 اللغات
-
-- [cite_start]**العربية** [cite: 30]
-- [cite_start]**الإنجليزية (B1)** [cite: 28]
-- [cite_start]**الفرنسية (A2)** [cite: 29]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Hadef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Youssef's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Hadef&layout=compact&langs_count=8&theme=dracula" alt="Youssef's Top Languages" />
+</p>
 
 ---
 
-### 📫 للتواصل معي
+### 🌐 Let's Connect!
 
-- [cite_start]📧 **البريد الإلكتروني:** [hadef.youssef@univ-ouargla.dz](mailto:hadef.youssef@univ-ouargla.dz) [cite: 18]
-- [cite_start]📞 **الهاتف:** +213699517563 [cite: 6]
-- [cite_start]📍 **الموقع:** ورقلة، الجزائر [cite: 20]
+<p align="center">
+  <a href="mailto:hadef.youssef@univ-ouargla.dz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  </p>
 
+ 
 <!--
 **Youssef-Hadef/Youssef-Hadef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
