@@ -48,79 +48,19 @@
   </a>
 </p>
 
-#### Skill Proficiency
+### Mənim bacarıqlarım
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Data Analysis & Visualization</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#0078D4" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="75.4" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">80%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <strong>Machine Learning</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#8BC34A" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="113.1" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">70%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <strong>Deep Learning</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#FFEB3B" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="188.5" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">50%</text>
-      </svg>
-    </td>
-     <td align="center">
-      <strong>Image Processing</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#CDDC39" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="131.95" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">65%</text>
-      </svg>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Python</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#FFD43B" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="75.4" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">80%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <strong>Power BI</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#F2C811" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="113.1" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">70%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <strong>Excel</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#217346" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="113.1" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">70%</text>
-      </svg>
-    </td>
-        <td align="center">
-      <strong>Project Management</strong><br>
-      <svg width="150" height="150" viewBox="0 0 150 150">
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#262626" stroke-width="15" />
-        <circle cx="75" cy="75" r="60" fill="none" stroke="#9E9E9E" stroke-width="15" stroke-dasharray="377" stroke-dashoffset="188.5" stroke-linecap="round" transform="rotate(-90 75 75)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">50%</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+###  Data Analysis & Visualization
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn
+* **Power BI:** DAX, Power Query, Data Modeling
+* **Excel:** Pivot Tables, Advanced Formulas
 
+###  Machine & Deep Learning
+* **Frameworks:** Scikit-learn, TensorFlow, Keras
+* **Concepts:** Regression, Classification, CNNs, Object Detection
+
+###  Others
+* **Project Management:** Agile, Scrum
 
 ---
 
