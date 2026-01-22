@@ -38,7 +38,7 @@ I am a Master's student in **Artificial Intelligence & Data Science** at **Kasdi
 I am passionate about applying machine learning and data analysis techniques to real-world problems, especially in healthcare, business intelligence, and intelligent systems.  
 My focus is on building **end-to-end data-driven solutions**, from raw data to actionable insights and predictive models.
 
-🔗 **Portfolio:** [https://Youssef-Hadef.github.io/Youssef-Hadef/](https://Youssef-Hadef.github.io/Youssef-Hadef/)
+🔗 **Portfolio:** [https://Youssef-Hadef.github.io/My-Portfolio/](https://Youssef-Hadef.github.io/My-Portfolio/)
 
 ---
 
@@ -69,6 +69,30 @@ My focus is on building **end-to-end data-driven solutions**, from raw data to a
 
 ---
 
+## ⭐ Featured Projects
+
+### 🩺 Diabetes Prediction Using Machine Learning
+🔗 **Repository:** https://github.com/Youssef-Hadef/Diabetes-Prediction  
+
+This project aims to predict diabetes based on medical and demographic data using machine learning techniques.  
+I implemented the complete data science pipeline, including data preprocessing, exploratory data analysis, feature selection, model training, and evaluation.  
+The project demonstrates my ability to apply supervised learning models to healthcare-related problems and interpret results using appropriate performance metrics.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+---
+
+### 💵 Fake Banknote Detection
+🔗 **Repository:** https://github.com/Youssef-Hadef/Fake-Banknote-Detection  
+
+The goal of this project is to classify banknotes as genuine or counterfeit using machine learning classification models.  
+I worked on data analysis, feature engineering, and model training, focusing on building reliable classifiers and evaluating their performance.  
+This project highlights my understanding of classification problems and real-world pattern recognition.
+
+**Technologies:** Python, Scikit-learn, NumPy, Pandas
+
+---
+
 ## 📌 Featured GitHub Activity
 
 <p align="center">
@@ -84,6 +108,18 @@ My focus is on building **end-to-end data-driven solutions**, from raw data to a
 </p>
 
 ---
+
+## ⏱️ Coding Activity (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@0efa90d5-f965-4ba6-beaa-2370e57b01bb/15234fec-ba45-4558-bdd8-d9ed66f320d1.svg" alt="WakaTime Coding Activity"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Real coding time tracked automatically across my projects and learning sessions.</i>
+</p>
 
 ## 🌐 Let's Connect
 
