@@ -38,7 +38,7 @@ I am a Master's student in **Artificial Intelligence & Data Science** at **Kasdi
 I am passionate about applying machine learning and data analysis techniques to real-world problems, especially in healthcare, business intelligence, and intelligent systems.  
 My focus is on building **end-to-end data-driven solutions**, from raw data to actionable insights and predictive models.
 
-🔗 **Portfolio:** [https://youssefhadef.github.io/Youssef_Hadef/](https://youssefhadef.github.io/Youssef-Hadef/)
+🔗 **Portfolio:** [https://Youssef-Hadef.github.io/Youssef-Hadef/](https://Youssef-Hadef.github.io/Youssef-Hadef/)
 
 ---
 
