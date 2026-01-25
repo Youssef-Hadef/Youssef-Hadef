@@ -89,7 +89,7 @@ My mission? To build **end-to-end data-driven solutions**: from raw data → ins
 
   <!-- WakaTime -->
   <a href="https://wakatime.com/@Youssef_Hadef">
-    <img src="https://wakatime.com/share/@Youssef_Hadef/9146e36a-d2f7-495a-a83a-aef9ccbf2b0c.svg" alt="WakaTime stats" />
+    <img src="https://wakatime.com/share/@Youssef_Hadef/db1e8771-3810-4d96-a871-eaea3f203366.svg" alt="WakaTime stats" />
   </a>
   <p><i>Real coding time tracked automatically across my projects and learning sessions.</i></p>
 
