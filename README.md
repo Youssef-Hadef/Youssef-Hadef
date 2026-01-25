@@ -1,130 +1,106 @@
-<div id="header" align="center">
-  <h1>
-    Hi there, I'm Youssef Hadef
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<div align="center">
 
+  <h1>Hi, I'm Youssef Hadef 👋</h1>
+  
   <p>
-    AI & Data Science Master's Student | Machine Learning Enthusiast | Turning Data into Intelligent Solutions
+    🎓 Master's Student in <strong>AI & Data Science</strong> | 🧠 Turning Data into Intelligent Solutions
   </p>
 
-  <!-- Social Links -->
-  <p align="center">
+  <!-- Social Badges -->
+  <p>
     <a href="https://www.linkedin.com/in/youssefhadef">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://twitter.com/YoussefHadef_AI">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
     </a>
     <a href="https://github.com/Youssef-Hadef">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
     </a>
     <a href="https://web.facebook.com/profile.php?id=61566915492134">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+    </a>
+    <a href="mailto:hadef.youssef@univ-ouargla.dz">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
   </p>
 
-  <!-- Visitors -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Youssef-Hadef&label=Profile%20Views&color=blue&style=flat" />
-  </p>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Hadef&label=Profile%20Views&color=blue&style=flat" />
+
+  <br><br>
+
+  <!-- Portfolio Button -->
+  <a href="https://Youssef-Hadef.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I am a Master's student in **Artificial Intelligence & Data Science** at **Kasdi Merbah University (Algeria)**, with a Bachelor's degree in **Information Systems**.  
-I am passionate about applying machine learning and data analysis techniques to real-world problems, especially in healthcare, business intelligence, and intelligent systems.  
-My focus is on building **end-to-end data-driven solutions**, from raw data to actionable insights and predictive models.
+I’m a **Master’s student in Artificial Intelligence & Data Science** at **Kasdi Merbah University (Algeria)**, with a Bachelor’s in **Information Systems**.  
+I’m passionate about solving real-world challenges using **machine learning**, **data analytics**, and **intelligent systems**—especially in **healthcare**, **business intelligence**, and **computer vision**.
 
-🔗 **Portfolio:** [https://Youssef-Hadef.github.io/My-Portfolio/](https://Youssef-Hadef.github.io/My-Portfolio/)
+My mission? To build **end-to-end data-driven solutions**: from raw data → insights → deployable models.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center"> 
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,c,mysql,pandas,numpy,jupyter,powerbi,tensorflow,pytorch,scikitlearn,opencv,git,github,anaconda,vscode,azure&perline=10" />
 </p>
 
 ---
 
-## 🧠 Core Skills
+## 💡 Core Competencies
 
-### 📊 Data Analysis & Visualization
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI (DAX, Power Query, Data Modeling)
-- Excel (Advanced Formulas, Pivot Tables)
-
-### 🤖 Machine & Deep Learning
-- Scikit-learn, TensorFlow, Keras, PyTorch
-- Regression, Classification, CNNs
-- Object Detection & Computer Vision basics
-
-### ⚙️ Other Skills
-- Git & GitHub (Version Control)
-- Agile & Scrum fundamentals
-- Project-oriented problem solving
+| 📊 Data Analysis & Viz       | 🤖 Machine Learning             | ⚙️ Tools & Practices          |
+|-----------------------------|----------------------------------|-------------------------------|
+| • Pandas, NumPy, Matplotlib | • Scikit-learn, TensorFlow       | • Git & GitHub                |
+| • Power BI (DAX, Modeling)  | • CNNs, Classification, Regression | • Agile & Scrum            |
+| • Excel (Pivot, Formulas)   | • Object Detection (Basics)      | • End-to-End Project Delivery |
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🩺 Diabetes Prediction Using Machine Learning
-🔗 **Repository:** https://github.com/Youssef-Hadef/Diabetes-Prediction  
+### 🩺 [Diabetes Prediction](https://github.com/Youssef-Hadef/Diabetes-Prediction)
+> Predicting diabetes risk using medical data and ML pipelines.  
+**Tech**: Python, Scikit-learn, Pandas, Matplotlib
 
-This project aims to predict diabetes based on medical and demographic data using machine learning techniques.  
-I implemented the complete data science pipeline, including data preprocessing, exploratory data analysis, feature selection, model training, and evaluation.  
-The project demonstrates my ability to apply supervised learning models to healthcare-related problems and interpret results using appropriate performance metrics.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
-
----
-
-### 💵 Fake Banknote Detection
-🔗 **Repository:** https://github.com/Youssef-Hadef/Fake-Banknote-Detection  
-
-The goal of this project is to classify banknotes as genuine or counterfeit using machine learning classification models.  
-I worked on data analysis, feature engineering, and model training, focusing on building reliable classifiers and evaluating their performance.  
-This project highlights my understanding of classification problems and real-world pattern recognition.
-
-**Technologies:** Python, Scikit-learn, NumPy, Pandas
+### 💵 [Fake Banknote Detection](https://github.com/Youssef-Hadef/Fake-Banknote-Detection)
+> Classifying genuine vs. counterfeit banknotes with high accuracy.  
+**Tech**: Python, Scikit-learn, Feature Engineering
 
 ---
 
-## 📌 Featured GitHub Activity
+## 📈 GitHub & Coding Stats
 
-<p align="center">
-  <a href="https://github.com/Youssef-Hadef">
-    <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Hadef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Youssef-Hadef">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Hadef&layout=compact&langs_count=8&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Hadef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Hadef&layout=compact&langs_count=8&theme=dracula" />
+
+  <br><br>
+
+  <!-- WakaTime -->
+  <a href="https://wakatime.com/@Youssef_Hadef">
+    <img src="https://wakatime.com/share/@Youssef_Hadef/9146e36a-d2f7-495a-a83a-aef9ccbf2b0c.svg" alt="WakaTime stats" />
   </a>
-</p>
+  <p><i>Real coding time tracked automatically across my projects and learning sessions.</i></p>
+
+</div>
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+> 🔍 **Note**: My WakaTime dashboard is public and updates daily. If the graph doesn’t load, it may be due to caching—refresh after a few minutes!
 
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@0efa90d5-f965-4ba6-beaa-2370e57b01bb/15234fec-ba45-4558-bdd8-d9ed66f320d1.svg" alt="WakaTime Coding Activity"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <i>Real coding time tracked automatically across my projects and learning sessions.</i>
-</p>
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:hadef.youssef@univ-ouargla.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834438-975a1e80-a44a-11eb-8be8-7d7b3d2a1b85.gif" width="100%" />
+</div>
